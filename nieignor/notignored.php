@@ -3,3 +3,6 @@
  // asdfasdfasd
 
   echo "aa"; // asdfasd
+
+
+  for (;;){}

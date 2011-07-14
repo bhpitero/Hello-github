@@ -11,5 +11,6 @@
  */
 class newklas {
     //put your code here
+	public $x;
 }
 ?>
